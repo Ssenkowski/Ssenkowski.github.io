@@ -5,7 +5,7 @@ date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
 
-Software engineering is one of those fields that seems like it can fit almost any individuals life and given the time and determined effort come with a lot of perks.  
+Software engineering is one of those fields that seems like it can fit almost any individuals life and given the time and determined effort comes with the perks.  
 
 ##### Work to live
 ![](https://www.dropbox.com/s/g45sgldyrqigzy8/Screen%20Shot%202017-11-16%20at%2010.42.48%20PM.png?dl=0http://)
