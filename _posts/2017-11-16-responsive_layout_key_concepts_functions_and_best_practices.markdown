@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Responsive layout – key concepts, functions and best practices."
-date:       2017-11-17 03:40:08 +0000
+date:       2017-11-16 22:40:09 -0500
 permalink:  responsive_layout_key_concepts_functions_and_best_practices
 ---
 
@@ -11,7 +11,7 @@ Responsive layout can keep websites balanced and appealing.   No one likes livin
  
 ###### Why?
 ![](https://ioyby2hf25e3sg55t3muegr1-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/Arngren-1024x493.pnghttp://)
-Looks like a kids toy box... It hurts to even put this in a blog.
+Looks like a kids toy box... 
 
 ![](http://)
 
