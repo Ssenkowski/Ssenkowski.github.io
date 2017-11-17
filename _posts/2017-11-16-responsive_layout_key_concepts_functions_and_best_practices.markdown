@@ -10,17 +10,17 @@ Responsive layout can keep websites balanced and appealing.   No one likes livin
  Effective responsive layouts coupled with great UI allow the user to spend more time doing what they intended to and enjoy the view.
  
 ###### Why?
-![](https://ioyby2hf25e3sg55t3muegr1-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/Arngren-1024x493.png://)
+![](https://ioyby2hf25e3sg55t3muegr1-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/Arngren-1024x493.png)
 Looks like a kids toy box... 
 
 ![](http://)
 
 ###### Easy to use.  Appealing to look at.
-![](https://assets.awwwards.com/awards/images/2013/03/adaptative-responsive-websites-examples-03b.jpg://)
+![](https://assets.awwwards.com/awards/images/2013/03/adaptative-responsive-websites-examples-03b.jpg)
 
-![](https://www.dtelepathy.com/wp-content/uploads/2014/08/mry.jpg://)
+![](https://www.dtelepathy.com/wp-content/uploads/2014/08/mry.jpg)
 
-![](https://assets.awwwards.com/awards/images/2013/03/adaptative-responsive-websites-examples-05.jpg://) 
+![](https://assets.awwwards.com/awards/images/2013/03/adaptative-responsive-websites-examples-05.jpg) 
 
 Key Concepts... 
 
