@@ -5,12 +5,10 @@ date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
 
-Software engineering is one of those fields that seems like it can fit almost any individuals life and given the time and determined effort comes with great perks.  
-
 ### Work to live
 ![](https://www.dropbox.com/s/g45sgldyrqigzy8/Screen%20Shot%202017-11-16%20at%2010.42.48%20PM.png?dl=0http://)
  
- To me the ability to balance work with my life is invaluable.   So many individuals consistently rank software engineering as one of the top "work-life balance" crafts.   
+ To me the ability to balance work with my life is invaluable.   So many individuals consistently rank their software engineering job high in "work-life balance".   
 
 ### Vision
 ![](http://http://www.quertime.com/wp-content/uploads/2012/05/simple_art_best_creative_impressive_website_header_designs.jpg)
@@ -63,7 +61,7 @@ Persuasive and like working with people? Consider a career in sales or field ser
 And don’t forget that job security is consistently celebrated as a chief quality-of-life advantage of being a programmer, regardless of salary. As long as so much of the world depends on computers and the software that connects them, there will be a high-demand for those who can code!
 *Source: *(https://www.codefellows.org/blog/three-perks-software-developer/)
  
-When I learned that I could get involved in the field in only 5-12 months I did a ton of research to see if it was too good to be true. So far I love what Flatiron is accomplishing.  
+When I learned that I could get involved in the field in only 5-12 months I did a ton of research to see if it was too good to be true. So far I love what I'm being taught to accomplish.  
 
 1 year update:
 
