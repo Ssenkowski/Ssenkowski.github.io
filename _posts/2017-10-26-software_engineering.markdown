@@ -5,7 +5,7 @@ date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
 
-Software engineering is one of those fields that seems like it can fit almost any individuals life and given the time and determined effort comes with the perks.  
+Software engineering is one of those fields that seems like it can fit almost any individuals life and given the time and determined effort comes with great perks.  
 
 ### Work to live
 ![](https://www.dropbox.com/s/g45sgldyrqigzy8/Screen%20Shot%202017-11-16%20at%2010.42.48%20PM.png?dl=0http://)
@@ -62,9 +62,16 @@ Like to organize and expedite projects? Consider being a development engineer.
 Persuasive and like working with people? Consider a career in sales or field service engineering.
 And don’t forget that job security is consistently celebrated as a chief quality-of-life advantage of being a programmer, regardless of salary. As long as so much of the world depends on computers and the software that connects them, there will be a high-demand for those who can code!
 *Source: *(https://www.codefellows.org/blog/three-perks-software-developer/)
+ 
+When I learned that I could get involved in the field in only 5-12 months I did a ton of research to see if it was too good to be true. So far I love what Flatiron is accomplishing.  
 
-6-12 months to be competent starting a career in software, guranteed a job and a 98% placement rate?  Boss. 
+1 year update:
 
+3 year update:
+
+5 year update:
+
+10 year update:
 
 ##### Resources
 * (https://www.codefellows.org/blog/three-perks-software-developer/)
