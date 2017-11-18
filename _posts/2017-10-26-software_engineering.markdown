@@ -11,7 +11,7 @@ permalink:  software_engineering
  To me the ability to balance work with my life is invaluable.   So many individuals consistently rank their software engineering job high in "work-life balance".   
 
 ### Vision
-![](http://http://www.quertime.com/wp-content/uploads/2012/05/simple_art_best_creative_impressive_website_header_designs.jpg)
+![](http://www.quertime.com/wp-content/uploads/2012/05/simple_art_best_creative_impressive_website_header_designs.jpg)
 
 I love designing and implementing. 
 
