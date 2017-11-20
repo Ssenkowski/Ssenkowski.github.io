@@ -1,38 +1,28 @@
 ---
 layout: post
-title:      "5 pictures, 5 reasons and a few perks."
+title:      "Developing reasons of becoming a software engineer."
 date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
 
+Having a job that you enjoy is not a requirement to enjoy life but it certainy can make a significant difference.  After working a few different jobs out of strict neccessity, both my wife and I realized that if we had a chance to find something that we really enjoyed doing that would allow us to find or create the personal circumstances we hope to have someday we'd jump at it.   After doing hours upon hours of research on what field I might transition into and what might fit my personality best I landed upon software engineering.  I started the reviewing online courses through sites like Cousera and Codeacademy and evetually learned of Flatiron. To me this job makes sense.  For whatever reason I'm continually looking for ways to do my job in a more effective manner.  If there is a more effective way to do something that can really benefit someone and it's in your power to do it, if they deserve it do it.   It may take more time at the moment but in the long run it can save yourself or someone else hours upon hours of work and fatigue.  So it's my personal opinion that software engineering provides individuals with numerous ways to give back to the community.
+
+Some principles I hope I look back on down the road and be glad I followed.
+
 ### Work to live
-![](https://www.dropbox.com/s/g45sgldyrqigzy8/Screen%20Shot%202017-11-16%20at%2010.42.48%20PM.png?dl=0http://)
  
- To me the ability to balance work with my life is invaluable.   So many individuals consistently rank their software engineering job high in "work-life balance".   
+ To me the ability to balance work with the more imporatnt things in my life is invaluable.   Hundreds of individuals consistently rank their software engineering job high in "work-life balance".  
 
-### Vision
-![](http://www.quertime.com/wp-content/uploads/2012/05/simple_art_best_creative_impressive_website_header_designs.jpg)
+### Be active and use your mind
 
-I love designing and implementing. 
+Learning something new is importante and software engineering provides plenty of opportunities to learn something new.  
 
-### Engaged
-![](http://http://www.vectiv.com/images/portfolio/recent/item26.png)
-
-If I want to learn a new language or a new practice code seems to be ever adapting and improving.  Fingers crossed I'll be more engaged and interested than bored.
-
-### Thrive
-![](http://http://media.gettyimages.com/photos/google-software-engineer-amanda-camp-demonstrates-using-the-climbing-picture-id92430110)
-
-Software engineering jobs offer great benefits.
-
-### Dreams
-![](https://monetizepros.com/wp-content/uploads/2016/12/Digital-Nomad-Apprentice-Job.jpghttp://)
-
-Likely?  I don't know.  Possible? Absolutely.
+### Enjoy creating
+I love designing and implementing plans and beneficial ideas.   Web development provides a great way to do that.
 
 ##  A few other perks I found researching the field.
  
-###  Salary
+###  "Salary
 
 HubSpot famously offered a $30,000 bounty for software developers and designers in 2013 and, in the three years since, growing companies have continued to battle industry giants for the cream of the coding crop.
 
@@ -58,10 +48,9 @@ Imaginative and creative? Consider design engineering.
 Like laboratories and conducting experiments? Consider test engineering.
 Like to organize and expedite projects? Consider being a development engineer.
 Persuasive and like working with people? Consider a career in sales or field service engineering.
-And don’t forget that job security is consistently celebrated as a chief quality-of-life advantage of being a programmer, regardless of salary. As long as so much of the world depends on computers and the software that connects them, there will be a high-demand for those who can code!
+And don’t forget that job security is consistently celebrated as a chief quality-of-life advantage of being a programmer, regardless of salary. As long as so much of the world depends on computers and the software that connects them, there will be a high-demand for those who can code!"
 *Source: *(https://www.codefellows.org/blog/three-perks-software-developer/)
- 
-When I learned that I could get involved in the field in only 5-12 months I did a ton of research to see if it was too good to be true. So far I love what I'm being taught to accomplish.  
+
 
 1 year update:
 
