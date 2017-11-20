@@ -5,22 +5,10 @@ date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
 
-Having a job that you enjoy is not a requirement to enjoy life but it certainy can make a significant difference.  After working a few different jobs out of strict neccessity, both my wife and I realized that if we had a chance to find something that we really enjoyed doing that would allow us to find or create the personal circumstances we hope to have someday we'd jump at it.   After doing hours upon hours of research on what field I might transition into and what might fit my personality best I landed upon software engineering.  I started the reviewing online courses through sites like Cousera and Codeacademy and evetually learned of Flatiron. To me this job makes sense.  For whatever reason I'm continually looking for ways to do my job in a more effective manner.  If there is a more effective way to do something that can really benefit someone and it's in your power to do it, if they deserve it do it.   It may take more time at the moment but in the long run it can save yourself or someone else hours upon hours of work and fatigue.  So it's my personal opinion that software engineering provides individuals with numerous ways to give back to the community.
+Having a job that you enjoy isn't necessary to enjoy life.  That said after working a few different jobs out of strict neccessity, both my wife and I felt that if we had a chance to find something that we really enjoyed doing we'd both love to give it a shot.   Hours of research later I landed on software engineering.  I started the reviewing online courses through sites like Coursera and Codeacademy and eventually discovered Flatiron. The courses at Codeacademy and Coursera made a lot of sense to me.  I found myself enjoying programming.  The problem was finding a job though I knew that most required four year degrees.  Finding flatiron at that point was a godsend, realizing that I could learn something I enjoyed and have this community of developers placing students of their school at 98% was incredible.  So we sat down, we talked about it, planned out the next year or so and weighed the risks and the rewards and signed up.   No regrets.   This field just makes sense to me.  For whatever reason I'm usually continually looking for ways to do my job in a more effective way anyways and software engineering is built on principles like "Don't Repeat Yourself" or reinvent the wheel and keep things clean and simple.  So yes, I'm excited!
 
-Some principles I hope I look back on down the road and be glad I followed.
 
-### Work to live
- 
- To me the ability to balance work with the more imporatnt things in my life is invaluable.   Hundreds of individuals consistently rank their software engineering job high in "work-life balance".  
-
-### Be active and use your mind
-
-Learning something new is importante and software engineering provides plenty of opportunities to learn something new.  
-
-### Enjoy creating
-I love designing and implementing plans and beneficial ideas.   Web development provides a great way to do that.
-
-##  A few other perks I found researching the field.
+##  Some of the perks I found that added to my interest in the field.
  
 ###  "Salary
 
