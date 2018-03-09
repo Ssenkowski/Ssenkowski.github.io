@@ -6,7 +6,7 @@ permalink:  a_rails_app
 ---
 
 
- I do a lot of work during the year helping a congregation manage territories for a volunteer work so that the work can take place in an organized way.  The RAILS_TERRITORY_APP  was designed to help administrators manage these congregation territories and to help publishers find the process using them easy.  I was hoping to do this in two simple ways
+ A lot of work goes into managing territories during the year.  The RAILS_TERRITORY_APP  was designed to help administrators manage these congregation territories and to help publishers find the process using them easy.  I was hoping to do this in two simple ways
  
 1.  Make territories downloadable to the publishers in the field via a web app 
 
@@ -20,7 +20,9 @@ permalink:  a_rails_app
 	 
 	On a personal note I had fun with this project.  I feel like I've learned a lot and yet somehow still know very very little but I'm excited to do more research and develop more skills in the field because I enjoyed this and because I have a lot of ideas.  So I see more research, more learning, more skills development, and more assistance from other developers to get this application where I'd like it to be and to where the vast majority of users find the entire process seamless.
 	
-#### The Apps Plan:
+### The Apps Plan:
+
+
 
 1.  Get it reviewed
 2.  Apply the suggestions
@@ -28,11 +30,15 @@ permalink:  a_rails_app
 4.  Get it working
 5.  Make it look pretty
 
-#### The Timeframe:
+### The Timeframe:
+
+
 
 March 2019
 
-#### The Outlook:
+### The Outlook:
+
+
 
 I'm hopeful :) 
 
