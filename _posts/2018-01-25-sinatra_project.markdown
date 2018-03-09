@@ -5,6 +5,7 @@ date:       2018-01-25 13:50:30 -0500
 permalink:  sinatra_project
 ---
 
+[file:///Users/admin/Desktop/software%20engineer.jpg](http://)
  
 I was in complete admiration of another student's project today.    They listed out a few things that they thought helped, so here were a few things I took away from the experience:
 
