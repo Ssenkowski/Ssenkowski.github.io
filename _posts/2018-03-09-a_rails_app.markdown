@@ -29,7 +29,7 @@ On a personal note I had fun with this project.  I feel like I've learned a lot 
 2.  Apply the suggestions
 3.  Add Do Not Call Records, House to House Records, Street Names, Territory Images, Meeting Information and the rest of the features outlined in the database columns initially created.
 4.  Get it working
-5.  Make it look pretty
+5.  Make it look pretty and easy to use
 
 ### The Timeframe:
 
