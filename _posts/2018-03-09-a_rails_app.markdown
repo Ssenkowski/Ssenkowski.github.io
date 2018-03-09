@@ -29,7 +29,7 @@ permalink:  a_rails_app
 4.  Get it working
 5.  Make it look pretty
 
-**The Timeframe:
+**The Timeframe:**
 
 March 2019
 
