@@ -1,10 +1,9 @@
 ---
 layout: post
-title:      " Sinatra project"
-date:       2018-01-25 18:50:29 +0000
+title:      "What Bon Jovi and code have in common"
+date:       2018-01-25 13:50:30 -0500
 permalink:  sinatra_project
 ---
 
-
  
- I feel like this project drastically improved my understanding of Sinatra and it’s concepts and my comfort level. Prior to the project I felt like I was going from one lab to the next and the concepts made sense but a couple days later I was struggling with them.  This time through I gave myself a little extra rest, reviewed a few days and took the weekend almost completely off from thinking about it.  Then Tuesday morning I started the project by really partitioning out what I wanted my app to do, how each Model, Controller and View would fit into the project and what they would accomplish before diving in.   That made a WORLD of a difference.  When a problem or error did come up I felt I could figure it out or search for it and adjust other suggestions to fit or pry my way into the code and make it work.  I was having fun!   
+I was in complete admiration of another student's project today.    They listed out a few things that they thought helped them, but here were a few things I took away from the experience.  First, If you want to be a successful programmer work like one.  Put in the long hours and effort of reviewing, refactoring and researching your code after your done you'll thank yourself whether anyone else does.  Second, develop a healthy sense of pride and accomplishment with what you're doing.   If you're not treating what you're working on like you'd treat your families priceless heir loom it's probably not going to be your best.  Careful, determined, well planned out, focused work makes for an abundance of real success.  Third, don't leave room for regrets.  Just do it!   Refactor the models, controllers and views and customize the HTML and CSS. You want your program to hit the top, like Bon Jovi (Really didn't expect to find Bon Jovi as today's number one artist).
