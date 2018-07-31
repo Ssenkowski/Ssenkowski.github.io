@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Query my query"
-date:       2018-07-28 17:51:22 +0000
+title:      "Javascript Hoisting, Scope and .this"
+date:       2018-07-28 13:51:23 -0400
 permalink:  query_my_query
 ---
 
