@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Javascript Hoisting"
+title:      "Javascript "Hoisting""
 date:       2018-07-28 13:51:23 -0400
 permalink:  query_my_query
 ---
