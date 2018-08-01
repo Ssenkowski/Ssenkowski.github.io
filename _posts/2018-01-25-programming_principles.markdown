@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      " Everyday engineer"
+title:      "Everyday engineer"
 date:       2018-01-25 13:50:30 -0500
-permalink:  sinatra_project
+permalink:  programming_principles
 ---
 
 A few principles I took away from a recent experience:
@@ -12,6 +12,3 @@ A few principles I took away from a recent experience:
 3. Don’t leave room for regrets. Look for ways to improve and use them.
 4. Get help. Ask around, people in the software community want to help each other.
 5.  Learn.
-
-
-
