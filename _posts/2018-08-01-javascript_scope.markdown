@@ -30,7 +30,7 @@ The concept of scope in JavaScript determines the accessibility of variables or 
 	// Out here the variable "meal" will return undefined.  It is out of "scope".
 	```
 	
-	 These local variables are created when a function starts and deleted when the function is complete.(https://www.w3schools.com/js/js_scope.asp)
+	 These local variables are created when a function starts and deleted when the function is complete.
 	 
 ### Global Scope
 
