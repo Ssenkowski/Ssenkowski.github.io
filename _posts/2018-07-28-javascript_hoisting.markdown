@@ -34,7 +34,7 @@ In both of the previous code  examples the browser would output the number five 
  It's worth noting that JavaScript only does this with declarations.   A JavaScript initialization like the following example would not be hoisted.
 
  ```
- var x = 9; // Initialize x
+var x = 9; // Initialize x
 
 element = document.getElementById("demo"); // Find an element
 element.innerHTML = x + " " + y;           // Display x and y in the DOM element
@@ -45,7 +45,7 @@ var y = 10; // Initialize y
  In the above example from  you would see the number 9 in the DOM, but you would not see the number 10.   Because the variable Y is being initialized after being called and not declared, it will not be hoisted to the top and therefore displayed in the DOM.  In the next example, both x and y will appear in the DOM as "9" and "10" because they have been initialized prior to being called.
 
  ```
- var x = 9; // Initialize x
+var x = 9; // Initialize x
 var y = 10; // Initialize y
 
 element = document.getElementById("demo"); // Find an element
