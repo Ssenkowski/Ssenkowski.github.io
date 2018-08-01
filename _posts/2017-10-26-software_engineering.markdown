@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      " Ruby Scope Concepts"
+title:      " Ruby "Scope" Concepts"
 date:       2017-10-26 20:07:06 -0400
 permalink:  software_engineering
 ---
