@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript "Scope""
-date:       2018-08-01 16:30:29 +0000
+date:       2018-08-01 12:30:29 -0400
 permalink:  javascript_scope
 ---
 
